@@ -9,8 +9,8 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
-from SANKIXD.utils.database import is_on_off
-from SANKIXD.utils.formatters import time_to_seconds
+from TS.utils.database import is_on_off
+from TS.utils.formatters import time_to_seconds
 
 
 

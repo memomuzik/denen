@@ -1,5 +1,6 @@
-https://curl.haxx.se/rfc/cookie_spec.html
-This is a generated file! Do not edit.
+#https://curl.haxx.se/rfc/cookie_spec.html
+#This is a generated file! Do not edit.
+
 .youtube.com        TRUE        /        TRUE        1731927262        GPS        1
 .youtube.com        TRUE        /        TRUE        0        YSC        TYPDTKRCQXw
 .youtube.com        TRUE        /        TRUE        1747477462        VISITOR_INFO1_LIVE        SfArWzaGSy4
